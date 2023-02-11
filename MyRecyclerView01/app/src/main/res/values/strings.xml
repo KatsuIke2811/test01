@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRecyclerView01</string>
+    <string name="text_one">text_one</string>
+    <string name="text_two">text_two</string>
+    <string name="text_three">text_three</string>
+    <string name="text_four">text_four</string>
+    <string name="text_five">text_five</string>
+
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+</resources>
